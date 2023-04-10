@@ -1,0 +1,18 @@
+        body {
+        background-color: chocolate;
+        text-align: justify
+    }
+    
+    .topico {
+        text-align: center
+    }
+    
+    .topico2 {
+        text-align: center
+    }
+    
+    img {
+        width: 50%;
+        margin: auto;
+        display: block;
+        text-align: center

@@ -1,0 +1,24 @@
+bod{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+h1{
+    font-size: 2em;
+    color: rgb(234, 5, 5);
+}
+
+h2{
+    color: rgb(175, 36, 36);
+}
+#titulo-principal{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.topico{
+    text-align: right;
+}
+.top{
+    text-align: justify;
+}

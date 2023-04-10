@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    border-block-end-color: black;
+    color: #fffdd9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-repeat: no-repeat, 100%
+}
+
+a {
+    border-spacing: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fffdd9;
+    text-decoration: none;
+    color: #000
+}
+
+a:hover {
+    padding: 12px;
+    text-decoration: none
+}
